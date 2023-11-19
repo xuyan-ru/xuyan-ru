@@ -1,5 +1,4 @@
-[![Xuyan Ru's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=xuyan-ru&count_private=true&theme=tokyonight&showicons=true)]()
-[![Xuyan Ru's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xuyan-ru&langs_count=3&theme=tokyonight)]()
+## Thanks for stopping by
 
 <!--
 **xuyan-ru/xuyan-ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
