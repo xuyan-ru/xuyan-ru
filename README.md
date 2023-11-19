@@ -1,5 +1,6 @@
 ## Thanks for stopping by
-![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=xuyan-ru)
+
+
 <!--
 **xuyan-ru/xuyan-ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
